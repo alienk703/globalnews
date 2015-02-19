@@ -1,0 +1,24 @@
+*{box-sizing: border-box;}
+
+#map-canvas {
+	z-index: 1;
+}
+
+.header {
+	z-index: 2;
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	background: rgba(209, 253, 225, 1) ;
+}
+
+.head-logo {
+	z-index: 3;
+	height: 100%;
+	position: fixed;
+	display: inline;
+}
+
+
+
+
